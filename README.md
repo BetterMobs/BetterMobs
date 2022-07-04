@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BetterMobs - Wiktor Małyska or pmalys
 - 👀 I’m interested in coding, 3D modeling and gaming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me on discord: pmalys#0001
